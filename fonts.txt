@@ -1,0 +1,1 @@
+jetbrains nerd mono 12
